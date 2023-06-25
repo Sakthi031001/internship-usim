@@ -1,0 +1,147 @@
+"""    TITLE = forms.CharField(
+        label='TITLE',
+        widget=CKEditorWidget()
+    )
+    TEMPAT = forms.CharField(
+        label='TEMPAT',
+        widget=forms.TextInput(attrs={
+            'class': 'form-control',
+            
+            'class': 'textarea is-success is-medium'
+        })
+    )
+    ANJURAN = forms.CharField(
+        label='ANJURAN',
+        widget=forms.TextInput(attrs={
+            'class': 'form-control',
+            
+            'class': 'textarea is-success is-medium'
+        })
+    )
+    TUJUAN = forms.CharField(
+        label='TUJUAN',
+        widget=forms.TextInput(attrs={
+            'class': 'form-control',
+            
+            'class': 'textarea is-success is-medium'
+        })
+    )
+    LATAR_BELAKANG = forms.CharField(
+        label='LATAR BELAKANG',
+        widget=CKEditorWidget()
+    )
+    Objektif_1 = forms.CharField(
+        label='OBJEKTIF',
+        widget=CKEditorWidget()
+    )
+    Tempat_A = forms.CharField(
+        label='Tempat',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Sasaran_peserta = forms.CharField(
+        label='Sasaran peserta',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Jawatankuasa_Pelaksana = forms.CharField(
+        label='Jawatankuasa Pelaksana',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Atur_Cara = forms.CharField(
+        label='Atur Cara',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Implikasi_Kewangan = forms.CharField(
+        label='Implikasi Kewangan',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    SETIAUSAHA = forms.CharField(
+        label='SETIAUSAHA',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    BENDAHARI = forms.CharField(
+        label='BENDAHARI',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    JAWATANKUASA_PERALATAN_DAN_TEKNIKAL = forms.CharField(
+        label='JAWATANKUASA PERALATAN DAN TEKNIKAL',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    JAWATANKUASA_JEMPUTAN = forms.CharField(
+        label='JAWATANKUASA JEMPUTAN',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    JAWATANKUASA_AKTIVITI = forms.CharField(
+        label='JAWATANKUASA AKTIVITI',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Atur_Cara_B = forms.CharField(
+        label='TAJUK',
+        widget=forms.TextInput(attrs={
+            'class': 'form-control',
+            
+            'class': 'textarea is-success is-medium'
+        })
+    )
+    Tempat_B = forms.CharField(
+        label='Tempat',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+    Name_1 = forms.CharField(
+        label='NAME',
+        widget=forms.TextInput(attrs={
+            'class': 'textarea is-success is-low'
+            
+            
+        })
+    )
+   
+    TARIKH = forms.DateField(label='TARIKH',widget=forms.DateInput(attrs={'type':'date','max':datetime.now().date()}))
+    MASA = forms.TimeField(label='MASA',widget=forms.TimeInput(attrs={'type':'time'}))
+    Tarikh_A = forms.DateField(label='TARIKH',widget=forms.DateInput(attrs={'type':'date','max':datetime.now().date()}))
+    Tarikh_B = forms.DateField(label='TARIKH',widget=forms.DateInput(attrs={'type':'date','max':datetime.now().date()}))
+    Masa_B = forms.TimeField(label='MASA',widget=forms.TimeInput(attrs={'type':'time'}))
+"""
